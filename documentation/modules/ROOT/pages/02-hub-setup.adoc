@@ -58,7 +58,7 @@ It is possible to log in as well trough the web console, we recommend to do it b
 IMPORTANT: Change _<domain>_ information, provided by the instructor at the beginning of this workshop.
 
 - Open <hub-ocp-cluster-console> (E.g. https://console-openshift-console.apps.argo-hub.<domain>.opentlc.com/)
-- Hit *_my_htpasswd_provider_*. 
+- Hit *Workshop Users*. 
 
 .Argo Hub log in
 image::hub-login-1.png[]
