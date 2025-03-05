@@ -15,7 +15,7 @@ content:
 asciidoc:
   attributes:
     title: GitOps Infrastructure Configuration Workshop
-    release-version: main
+    release-version: master
     page-pagination: true
   extensions:
     - ./lib/tab-block.js

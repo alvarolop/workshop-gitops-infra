@@ -1,6 +1,6 @@
 name: workshop-gitops-infra
 title: GitOps Infrastructure Configuration Workshop
-version: main
+version: master
 nav:
   - modules/ROOT/nav.adoc
 
