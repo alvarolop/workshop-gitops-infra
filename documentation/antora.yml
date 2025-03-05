@@ -1,6 +1,6 @@
-name: manual-workshop-infra
+name: ROOT
 title: Lab GitOps infra
-version: master
+version: main
 nav:
   - modules/ROOT/nav.adoc
 
