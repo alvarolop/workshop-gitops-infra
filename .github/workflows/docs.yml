@@ -6,6 +6,10 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+  pages: write
+
 env:
   SITE_DIR: "gh-pages"
 jobs:
