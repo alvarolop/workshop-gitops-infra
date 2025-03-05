@@ -4,7 +4,7 @@ runtime:
 site:
   title: GitOps Infrastructure Configuration Workshop
   url: https://alvarolop.github.io/workshop-gitops-infra
-  start_page: workshop-gitops-infra::index.adoc
+  start_page: ROOT::index.adoc
 
 content:
   sources:
