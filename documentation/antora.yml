@@ -1,6 +1,6 @@
 name: ROOT
 title: Lab GitOps infra
-version: main
+version: master
 nav:
   - modules/ROOT/nav.adoc
 
