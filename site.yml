@@ -3,13 +3,12 @@ runtime:
 
 site:
   title: GitOps Infrastructure Configuration Workshop
-  url: https://alvarolop.github.io/workshop-gitops-infra/index.html
+  url: https://alvarolop.github.io/workshop-gitops-infra
   start_page: workshop-gitops-infra::index.adoc
 
 content:
   sources:
-    - url: .
-      branches: HEAD
+    - url: ./
       start_path: documentation
 
 asciidoc:
@@ -23,7 +22,7 @@ asciidoc:
 
 ui:
   bundle:
-    url: https://github.com/aolle/rhd-tutorial-ui/releases/download/v0.1.13/ui-bundle.zip
+    url: https://github.com/aolle/rhd-tutorial-ui/releases/download/v0.2.0/ui-bundle.zip
     snapshot: true
   supplemental_files:
     - path: partials/toolbar.hbs

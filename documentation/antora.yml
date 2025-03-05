@@ -1,5 +1,5 @@
-name: workshop-gitops-infra
-title: Lab GitOps infra
+name: ROOT
+title: GitOps Infrastructure Configuration Workshop
 version: master
 nav:
   - modules/ROOT/nav.adoc
