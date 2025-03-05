@@ -1,5 +1,4 @@
 = Welcome to Red Hat Workshop - ArgoCD Managing Infrastructure
-:page-layout: home
 :!sectids:
 
 A Red Hat GitOps infrastructure configuration approach workshop.
