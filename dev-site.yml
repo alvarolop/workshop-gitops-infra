@@ -4,7 +4,7 @@ runtime:
 site:
   title: GitOps Infrastructure Configuration Workshop
   url: http://localhost:3000/index.html
-  start_page: manual-workshop-infra::index.adoc
+  start_page: workshop-gitops-infra::index.adoc
 
 content:
   sources:
