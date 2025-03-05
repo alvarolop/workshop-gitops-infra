@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://alvarolop.github.io/workshop-gitops-infra/01-setup.html</loc>
-<lastmod>2025-03-05T15:18:55.580Z</lastmod>
+<loc>https://alvarolop.github.io/workshop-gitops-infraindex.html/01-setup.html</loc>
+<lastmod>2025-03-05T16:06:51.793Z</lastmod>
 </url>
 <url>
-<loc>https://alvarolop.github.io/workshop-gitops-infra/02-hub-setup.html</loc>
-<lastmod>2025-03-05T15:18:55.580Z</lastmod>
+<loc>https://alvarolop.github.io/workshop-gitops-infraindex.html/02-hub-setup.html</loc>
+<lastmod>2025-03-05T16:06:51.793Z</lastmod>
 </url>
 <url>
-<loc>https://alvarolop.github.io/workshop-gitops-infra/03-sno-setup.html</loc>
-<lastmod>2025-03-05T15:18:55.580Z</lastmod>
+<loc>https://alvarolop.github.io/workshop-gitops-infraindex.html/03-sno-setup.html</loc>
+<lastmod>2025-03-05T16:06:51.793Z</lastmod>
 </url>
 <url>
-<loc>https://alvarolop.github.io/workshop-gitops-infra/04-day2-config.html</loc>
-<lastmod>2025-03-05T15:18:55.580Z</lastmod>
+<loc>https://alvarolop.github.io/workshop-gitops-infraindex.html/04-day2-config.html</loc>
+<lastmod>2025-03-05T16:06:51.793Z</lastmod>
 </url>
 <url>
-<loc>https://alvarolop.github.io/workshop-gitops-infra/index.html</loc>
-<lastmod>2025-03-05T15:18:55.580Z</lastmod>
+<loc>https://alvarolop.github.io/workshop-gitops-infraindex.html/index.html</loc>
+<lastmod>2025-03-05T16:06:51.793Z</lastmod>
 </url>
 </urlset>
